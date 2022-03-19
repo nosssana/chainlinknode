@@ -57,7 +57,7 @@ require (
 	github.com/shopspring/decimal v1.3.1
 	github.com/smartcontractkit/chainlink-solana v0.2.12-0.20220217150457-281a05e940f1
 	github.com/smartcontractkit/chainlink-terra v0.0.8-0.20220222145923-77cd6baf7b57
-	github.com/smartcontractkit/helmenv v1.0.36
+	github.com/smartcontractkit/helmenv v1.0.43
 	github.com/smartcontractkit/integrations-framework v1.0.50
 	github.com/smartcontractkit/libocr v0.0.0-20220217180537-449836e6cfec
 	github.com/smartcontractkit/sqlx v1.3.5-0.20210805004948-4be295aacbeb
@@ -386,16 +386,16 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	helm.sh/helm/v3 v3.8.0 // indirect
-	k8s.io/api v0.23.3 // indirect
+	k8s.io/api v0.23.4 // indirect
 	k8s.io/apiextensions-apiserver v0.23.1 // indirect
-	k8s.io/apimachinery v0.23.3 // indirect
+	k8s.io/apimachinery v0.23.4 // indirect
 	k8s.io/apiserver v0.23.1 // indirect
-	k8s.io/cli-runtime v0.23.3 // indirect
-	k8s.io/client-go v0.23.3 // indirect
-	k8s.io/component-base v0.23.3 // indirect
+	k8s.io/cli-runtime v0.23.4 // indirect
+	k8s.io/client-go v0.23.4 // indirect
+	k8s.io/component-base v0.23.4 // indirect
 	k8s.io/klog/v2 v2.30.0 // indirect
 	k8s.io/kube-openapi v0.0.0-20211115234752-e816edb12b65 // indirect
-	k8s.io/kubectl v0.23.3 // indirect
+	k8s.io/kubectl v0.23.4 // indirect
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed // indirect
 	oras.land/oras-go v1.1.0 // indirect
 	sigs.k8s.io/json v0.0.0-20211020170558-c049b76a60c6 // indirect
